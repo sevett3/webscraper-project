@@ -15,6 +15,8 @@ players = []
 
 selectedLeague = selectedYear = selectedSeason = 0
 
+print("Names of currently supported leagues are:\nNA_LCS, LCS, EU_LCS, LEC, LCK, LPL, CBLOL, LCL, LJL, LLA, OPL, PCS, TCL, VCS, LMS")
+
 inputStatus = 0
 
 while inputStatus == 0:
